@@ -1,6 +1,6 @@
 # HTML-Responsive-Resume-Template
 Hey there; it's me! Here is the SEO Expert Responsive Resume Template based on HTML5. Thanx for coming here., imamcu07; SEO Expert In BD.
-- ![chtml responsive resume](/html-responsive-resume-template)
+- ![html responsive resume](/html-responsive-resume-template.png)
 - Hey there; it's me! Muhammad Imam Uddin, born and raised in Feni, Bangladesh. I always love to play with codes, blogging, social media, search engine optimization and many more. I also love to keep me up-to-date with new technology and innovative creations. I'm familiar with the search engines by my unique keyword 'imamcu07'. To see my online activities, search 'imamcu07' by your search engine. I have good knowledge in SEO, SMM, Digital Marketing, Programming, Website Development and many more. Here are some of my works link:
 
 	==:: Portfolio ::==
